@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.7'
 
   s.source       =  { 
-    :git => 'https://github.com/matehat/leveldb.git', 
+    :git => 'https://github.com/google/leveldb.git', 
     :tag => 'v1.20'
   }
 
